@@ -18,7 +18,7 @@
 
 	<context-param>
 		<param-name>jdbcPassword</param-name>
-		<param-value>P@ssw0rd</param-value>
+		<param-value>AeioU@12345</param-value>
 	</context-param>
 
 	<servlet>
