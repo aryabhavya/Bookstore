@@ -1,4 +1,4 @@
-package net.codejava.javaee.bookstore;
+package com.ba.bookstore;
 
 /**
  * Book.java
